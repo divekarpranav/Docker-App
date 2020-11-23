@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PROJECT\\1_DotNet\\myWebApp\\myWebApp.csproj",
+      "projectUniqueName": "F:\\PROJECT\\1_DotNet\\Docker-App\\myWebApp.csproj",
       "projectName": "myWebApp",
-      "projectPath": "F:\\PROJECT\\1_DotNet\\myWebApp\\myWebApp.csproj",
+      "projectPath": "F:\\PROJECT\\1_DotNet\\Docker-App\\myWebApp.csproj",
       "packagesPath": "C:\\Users\\Sanjay Babu\\.nuget\\packages\\",
-      "outputPath": "F:\\PROJECT\\1_DotNet\\myWebApp\\obj\\",
+      "outputPath": "F:\\PROJECT\\1_DotNet\\Docker-App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sanjay Babu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DIrVqv/grQLRM5SM2L6uPAZ3ClFqejXkYFvZ3b8SqXEIbAGesGMHRQXV2IIG3ItG/Qeeu/YyVWq+Rc5UIm2WQA==",
+  "dgSpecHash": "qmpqxjOlUV5GQELuULdhQwy/B0ojvmy9rpnSWesAs0SM2WYqKNyvsJg2OwqqgkGhDTKXJQVOLk1DkHY67U7KZQ==",
   "success": true,
-  "projectFilePath": "F:\\PROJECT\\1_DotNet\\myWebApp\\myWebApp.csproj",
+  "projectFilePath": "F:\\PROJECT\\1_DotNet\\Docker-App\\myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
